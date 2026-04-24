@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --kreamz-pink: #e91e8c;
+  --kreamz-dark-pink: #c2185b;
+  --kreamz-bg: #0d0d0f;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--kreamz-bg);
+}
+
+html { scroll-behavior: smooth; }
+
+/* Range input cross-browser */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 12px;
+  border-radius: 6px;
+  outline: none;
+  cursor: pointer;
+}
+input[type="range"]::-moz-range-thumb {
+  width: 28px; height: 28px;
+  border-radius: 50%;
+  background: white;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.4);
+  border: none;
+  cursor: pointer;
+}
+
+/* Select styling */
+select option { background: #1a1a1f; color: white; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 2px; }
+
+/* Admin dark inputs */
+input::placeholder, textarea::placeholder { color: rgba(255,255,255,0.25) !important; }

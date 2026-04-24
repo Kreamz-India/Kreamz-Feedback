@@ -1,0 +1,674 @@
+[
+  {
+    "id": "malancha-dhir-enterprise-malancha",
+    "name": "DHIR ENTERPRISE (MALANCHA)",
+    "city": "Malancha",
+    "address": "76B,Netaji Subhas Chandra Bose Road, Ward No - 97, Kolkata Municipal Corporation, Kolkata Pin-700040"
+  },
+  {
+    "id": "kamalgazi-aabhis-innovation-kamalgazi",
+    "name": "AABHIS INNOVATION (KAMALGAZI)",
+    "city": "Kamalgazi",
+    "address": "3271, Vinayak Ventures, 278 South Kumarkhali, Narendrapur, P.S-Sonarpur, South 24PGS,PIN-700103"
+  },
+  {
+    "id": "garia-dainty-delight-garia",
+    "name": "DAINTY DELIGHT (GARIA)",
+    "city": "Garia",
+    "address": "2771,Garia Main Road Below H.K Dutta Jewellers Garia - Boral Auto Stand Near Garia Sitala Mandir Kolkata - 700084"
+  },
+  {
+    "id": "sonarpur-delicious-confectionery-sonarpur",
+    "name": "DELICIOUS CONFECTIONERY (SONARPUR)",
+    "city": "Sonarpur",
+    "address": "334, Tegoria Ramkrishnapally, District - South 24 Parganas, PIN-700150"
+  },
+  {
+    "id": "rakshit-more-nandi-confansary-rakshit-more",
+    "name": "NANDI CONFANSARY (RAKSHIT MORE)",
+    "city": "Rakshit More",
+    "address": "Boral Rakshit More,kai-154,PH-narendrapur,PO-Boral"
+  },
+  {
+    "id": "bramhapur-badamtala-nayeem-confectionery-bramhapur-badamtala",
+    "name": "NAYEEM CONFECTIONERY (BRAMHAPUR BADAMTALA)",
+    "city": "Bramhapur Badamtala",
+    "address": "F967+HM5,Niva Park Phase 3, Bramhapur,Kolkata,West Bengal 700096"
+  },
+  {
+    "id": "mahamayatala-dainty-delights-mahamayatala",
+    "name": "DAINTY DELIGHTS (MAHAMAYATALA)",
+    "city": "Mahamayatala",
+    "address": "1, Kalibazar Road. Mahamayatala. Opp.Of Suraksha Diagnostic Center.Kolkata-700084"
+  },
+  {
+    "id": "mudiali-delectable-confectionery-mudiali",
+    "name": "DELECTABLE CONFECTIONERY (MUDIALI)",
+    "city": "Mudiali",
+    "address": "143, Shyama Prasad Mukherjee,Road Kolkata-700026"
+  },
+  {
+    "id": "canning-dipankar-snacks-and-cakes-canning",
+    "name": "DIPANKAR SNACKS AND CAKES (CANNING)",
+    "city": "Canning",
+    "address": "Canning Bus Stand, Opposite Of Bazar Kolkata-743329"
+  },
+  {
+    "id": "subhasgram-naskar-yummy-and-tasty-subhasgram",
+    "name": "NASKAR YUMMY AND TASTY (SUBHASGRAM)",
+    "city": "Subhasgram",
+    "address": "204, R.N.C. RD(W), P.O.-Subhasgram,P.S.-Sonarpur, Kolkata-700147"
+  },
+  {
+    "id": "budge-budge-reyansh-confectionery-budge-budge",
+    "name": "REYANSH CONFECTIONERY (BUDGE BUDGE)",
+    "city": "Budge Budge",
+    "address": "363 Mahatma Gandhi Road Budge Budge LP 1/84 Kolkata-700137"
+  },
+  {
+    "id": "bhawanipore-roys-confectionery-bhawanipore",
+    "name": "ROYS CONFECTIONERY (BHAWANIPORE)",
+    "city": "Bhawanipore",
+    "address": "4, Ramesh Mitra Road Bhowanipore Kolkata - 700025"
+  },
+  {
+    "id": "garia-station-s-d-enterprise-garia-station",
+    "name": "S. D. ENTERPRISE (GARIA STATION)",
+    "city": "Garia Station",
+    "address": "Balia Main Road, Garia Station, Kolkata-84. Near Balia Bazar,Madhya Balia"
+  },
+  {
+    "id": "dakshin-raipur-das-confectionery-dakshin-raipur",
+    "name": "DAS CONFECTIONERY (DAKSHIN RAIPUR)",
+    "city": "Dakshin Raipur",
+    "address": "Dakshin Raipur,Nodakhali,South 24 PGS, Nearby Raipur 75 Bus Stand, Pin-743318"
+  },
+  {
+    "id": "rajpur-dhamaitala-a-to-z-solution-rajpur-dhamaitala",
+    "name": "A TO Z SOLUTION ( RAJPUR DHAMAITALA )",
+    "city": "Rajpur Dhamaitala",
+    "address": "Dhamaitala,Rajpur 700149 Apartment Name-Krishna Kunj Apartment"
+  },
+  {
+    "id": "dumdum-cantonment-gorabazar-namita-store-dumdum-cantonment-g",
+    "name": "NAMITA STORE (DUMDUM CANTONMENT GORABAZAR)",
+    "city": "DUMDUM CANTONMENT GORABAZAR",
+    "address": "90.Dr.S P MUKHERJEE ROAD. DUM DUM CANTORMENT. GORABAZAR. KOLKATA - 700028."
+  },
+  {
+    "id": "shyamnagar-sarthak-enterprise-shyamnagar",
+    "name": "SARTHAK ENTERPRISE (SHYAMNAGAR)",
+    "city": "SHYAMNAGAR",
+    "address": "122/17 EAST KAPTE PARA ROAD, WARD NO-23, BHATPARA MUNICIPALITY, North Twenty Four Parganas, West Bengal, 743127"
+  },
+  {
+    "id": "belgharia-biva-somas-stop-belgharia-biva",
+    "name": "SOMAS STOP (BELGHARIA BIVA)",
+    "city": "BELGHARIA BIVA",
+    "address": "179,old Nimta Road Adarsha pally Belgharia Kolkata -700056"
+  },
+  {
+    "id": "baguiati-taniskaas-chocos-charm-baguiati",
+    "name": "TANISKAAS CHOCOS CHARM (BAGUIATI)",
+    "city": "Baguiati",
+    "address": "Shop No 4B, Block- B, Sitala Abasan, Krishnapur, PS-Baguiati Kolkata-700102"
+  },
+  {
+    "id": "kestopur-bazar-cakeology-kestopur-bazar",
+    "name": "CAKEOLOGY (KESTOPUR BAZAR)",
+    "city": "Kestopur Bazar",
+    "address": "Mohisgote P.O Krisnapur P.S New Town Rajarhat Kolkata-700135"
+  },
+  {
+    "id": "kachrapara-dolly-confectionery-kachrapara",
+    "name": "DOLLY CONFECTIONERY (KACHRAPARA)",
+    "city": "KACHRAPARA",
+    "address": "Kampa, kanchrapara"
+  },
+  {
+    "id": "mecheda-sri-hari-foods-mecheda",
+    "name": "SRI HARI FOODS (MECHEDA)",
+    "city": "Mecheda",
+    "address": "Mecheda Kakdihi -721137"
+  },
+  {
+    "id": "dum-dum-station-anjali-cake-shop-dum-dum-station",
+    "name": "ANJALI CAKE SHOP (DUM DUM STATION)",
+    "city": "DUM DUM STATION",
+    "address": "Premises No-41/A/3, 103, Dumdum Cossipore Road, Ground Floor, P.S - Dumdum, Pin - 700030."
+  },
+  {
+    "id": "dum-dum-cantonment-misti-confectionery-dum-dum-cantonment",
+    "name": "MISTI CONFECTIONERY (DUM DUM CANTONMENT)",
+    "city": "DUM DUM CANTONMENT",
+    "address": "41 subhas nagar road,north 24 paraga kolkata 65 west bengal"
+  },
+  {
+    "id": "vip-kestopur-aradhya-confectionery-vip-kestopur",
+    "name": "ARADHYA CONFECTIONERY (VIP KESTOPUR)",
+    "city": "Vip Kestopur",
+    "address": "Shop No - 1, BC-66, Anurupapally, PO- Prafulla Kanan, Kestopur, Kolkata, West Bengal 700101"
+  },
+  {
+    "id": "gorabazar-hanuman-mandir-debran-confectionery-gorabazar-hanu",
+    "name": "DEBRAN CONFECTIONERY (GORABAZAR HANUMAN MANDIR)",
+    "city": "GORABAZAR HANUMAN MANDIR",
+    "address": "Premises No-8/5,Ground Floor, 8/5 Rishi Bankim Chandra Road, Kolkata, Dumdum, Pin- 700028."
+  },
+  {
+    "id": "belgharia-station-dina-nath-enterprise-belgharia-station",
+    "name": "DINA NATH ENTERPRISE (BELGHARIA STATION)",
+    "city": "BELGHARIA STATION",
+    "address": "107/2 feedar road belgjoria..kol_700056"
+  },
+  {
+    "id": "titagarh-rayyan-confectionery-titagarh",
+    "name": "RAYYAN CONFECTIONERY (TITAGARH)",
+    "city": "TITAGARH",
+    "address": "6-R Fancy bazar station road ,shop no. 2, Titagarh, kolkata,north 24 parganas , west bengal"
+  },
+  {
+    "id": "sodepur-h-b-town-barman-confectionery-sodepur-h-b-town",
+    "name": "BARMAN CONFECTIONERY (SODEPUR H. B. TOWN)",
+    "city": "SODEPUR H. B. TOWN",
+    "address": "Sodepur HB town nata ghar mein road"
+  },
+  {
+    "id": "chinsurah-shivam-confectionery-chinsurah",
+    "name": "SHIVAM CONFECTIONERY (CHINSURAH)",
+    "city": "CHINSURAH",
+    "address": "Nibedita Appartment , Ground Floor , Chinsurah Station Road , Beside Medplus"
+  },
+  {
+    "id": "konnagar-2-bhuban-confectionary-konnagar-2",
+    "name": "BHUBAN CONFECTIONARY (KONNAGAR 2)",
+    "city": "KONNAGAR 2",
+    "address": "24/B Vidyasagar Road konnagar nabagram"
+  },
+  {
+    "id": "chandannagore-barabazar-sankari-food-mart-chandannagore-bara",
+    "name": "SANKARI FOOD MART (CHANDANNAGORE BARABAZAR)",
+    "city": "CHANDANNAGORE BARABAZAR",
+    "address": "625, Barabazar main road near kanailal Vidyamandir, Chandannagar, Hooghly"
+  },
+  {
+    "id": "ghusuri-sudha-confectionery-ghusuri",
+    "name": "SUDHA CONFECTIONERY (GHUSURI)",
+    "city": "GHUSURI",
+    "address": "33/1 girish ghosh lane ghusuri howrah Pin 711107"
+  },
+  {
+    "id": "konnagar-arvind-stores-konnagar",
+    "name": "ARVIND STORES(KONNAGAR)",
+    "city": "KONNAGAR",
+    "address": "142, Indira Gandhi road, konnagar hooghly"
+  },
+  {
+    "id": "bandel-dream-confectionery-bandel",
+    "name": "DREAM CONFECTIONERY (BANDEL)",
+    "city": "BANDEL",
+    "address": "Keota Checkpost GT Road Bandel Hooghly-712104"
+  },
+  {
+    "id": "howrah-mandirtala-bakers-bliss-howrah-mandirtala",
+    "name": "BAKERS BLISS (HOWRAH MANDIRTALA)",
+    "city": "HOWRAH MANDIRTALA",
+    "address": "158/1 shibpur road -711102"
+  },
+  {
+    "id": "mankundu-fresh-flavours-mankundu",
+    "name": "FRESH FLAVOURS (MANKUNDU)",
+    "city": "MANKUNDU",
+    "address": "56 Mankundu Station Road Natunpare Besides Radha Furniture"
+  },
+  {
+    "id": "andul-maple-leaf-andul",
+    "name": "MAPLE LEAF (ANDUL)",
+    "city": "ANDUL",
+    "address": "Andul Station Road, Andul Howrah"
+  },
+  {
+    "id": "chandannagar-2-mona-snacks-chandannagar-2",
+    "name": "MONA SNACKS (CHANDANNAGAR 2)",
+    "city": "CHANDANNAGAR 2",
+    "address": "near Khalsani Primary School, Sitala Tala, Bowbazar, Chandannagar, West Bengal 712138"
+  },
+  {
+    "id": "serampore-renew-retail-2-serampore",
+    "name": "RENEW RETAIL 2 (SERAMPORE)",
+    "city": "SERAMPORE",
+    "address": "92/A, G. T road, belting bazar, mallick pata building pata, P. O. &P.S serampore. Pin- 712203."
+  },
+  {
+    "id": "uttarpara-suroop-ventures-uttarpara",
+    "name": "SUROOP VENTURES (UTTARPARA)",
+    "city": "UTTARPARA",
+    "address": "66/2, Charakdanga road uttarpara Hooghly West Bengal - 712258"
+  },
+  {
+    "id": "swami-vivekananda-university-kreamz-swami-vivekananda-univer",
+    "name": "KREAMZ (SWAMI VIVEKANANDA UNIVERSITY)",
+    "city": "SWAMI VIVEKANANDA UNIVERSITY",
+    "address": "Swami Vivekananda University, Barasat -Barrackpore Rode, Telinipara Bara Kanthalia , Kolkata -700121"
+  },
+  {
+    "id": "makalpur-ganesh-indulgence-makalpur",
+    "name": "GANESH INDULGENCE (MAKALPUR)",
+    "city": "MAKALPUR",
+    "address": "Kagnan, Makalpur Bus Stand, Hooghly, Pin- 712305"
+  },
+  {
+    "id": "golf-green-mahamaya-golf-green",
+    "name": "MAHAMAYA (GOLF GREEN)",
+    "city": "Golf Green",
+    "address": "48, Prince Gulam Hussain Shah Rd,Bikramgarh,Golf Green, Kolkata,West Bengal-700032"
+  },
+  {
+    "id": "behala-adarsha-pally-cinzano-behala-adarsha-pally",
+    "name": "CINZANO (BEHALA ADARSHA PALLY)",
+    "city": "Behala Adarsha Pally",
+    "address": "165/2,Roy Bahadur Road,Ward No.118,Behala,Kolkata-700034"
+  },
+  {
+    "id": "3a-bus-stand-divine-treatz-3a-bus-stand",
+    "name": "DIVINE TREATZ (3A BUS STAND)",
+    "city": "3A Bus Stand",
+    "address": "1/1 Nabapally Link Road 3A Bus Stand Kolkata-700104"
+  },
+  {
+    "id": "behala-james-long-r-sarkar-confectionery-behala-james-long",
+    "name": "R SARKAR CONFECTIONERY (BEHALA JAMES LONG)",
+    "city": "Behala James Long",
+    "address": "512 Purba Para Behala Kolkata-63"
+  },
+  {
+    "id": "lords-more-tasty-treats-lords-more",
+    "name": "TASTY TREATS (LORDS MORE)",
+    "city": "Lords More",
+    "address": "51/39, Prince Gulam Mohammad Shah Road, Kolkata-700095"
+  },
+  {
+    "id": "salt-lake-kadapara-dina-nath-enterprise-salt-lake-kadapara",
+    "name": "DINA NATH ENTERPRISE (SALT LAKE KADAPARA)",
+    "city": "Salt Lake Kadapara",
+    "address": "81A Molana Abdul Kalam Azad Sarani Kolkata-700054"
+  },
+  {
+    "id": "college-st-paradise-book-company-college-st",
+    "name": "PARADISE BOOK COMPANY (COLLEGE ST.)",
+    "city": "College ST.",
+    "address": "19 College Street, Kolkata-700012.Opposite Bownazar Shib Mandir"
+  },
+  {
+    "id": "rajabazar-kinza-confectionery-rajabazar",
+    "name": "KINZA CONFECTIONERY (RAJABAZAR)",
+    "city": "Rajabazar",
+    "address": "Rajabazar Narkeldanga Mein Road Kolkata-700011 P31 Narkeldanga Mein Road"
+  },
+  {
+    "id": "hatibagan-maa-tara-confectionery-hatibagan",
+    "name": "MAA TARA CONFECTIONERY (HATIBAGAN)",
+    "city": "Hatibagan",
+    "address": "145 Bidhan Sarani Kolkata-6"
+  },
+  {
+    "id": "shovabazaar-jorabagan-das-enterprises-shovabazaar-jorabagaan",
+    "name": "DAS ENTERPRISES (SHOVABAZAAR JORABAGAAN)",
+    "city": "Shovabazaar Jorabagan",
+    "address": "1,B.K Paul Avenue Jorabagan More,Kolkata-5. Near Jorabagan Power House."
+  },
+  {
+    "id": "amherst-st-tasty-delight-amherst-st",
+    "name": "TASTY DELIGHT (AMHERST ST)",
+    "city": "Amherst St",
+    "address": "34 A,Keshab Chandra Sen Street, Kolkata 700009 Near College Street Bata Shwroom"
+  },
+  {
+    "id": "baghbazar-bata-more-saanviz-baghbazar-bata-more",
+    "name": "SAANVIZ (BAGHBAZAR BATA MORE)",
+    "city": "BAGHBAZAR BATA MORE",
+    "address": "44a bagbazar street Kolkata-3"
+  },
+  {
+    "id": "airport-gate-no-2-supriti-365-airport-gate-no-2",
+    "name": "SUPRITI 365 (AIRPORT GATE NO. 2)",
+    "city": "AIRPORT GATE NO. 2",
+    "address": "82,2no airpot gate,kolkata-700081"
+  },
+  {
+    "id": "nagerbazar-kreamz-nagerbazar",
+    "name": "KREAMZ (NAGERBAZAR)",
+    "city": "Nagerbazar",
+    "address": "965 Jessore Road, Ground Floor Kolkata-700055"
+  },
+  {
+    "id": "new-town-cb-town-arya-sweets-snacks-and-fast-food-centre-new",
+    "name": "ARYA SWEETS SNACKS AND FAST FOOD CENTRE (NEW TOWN CB TOWN)",
+    "city": "New Town CB Town",
+    "address": "251,Ground Floor CB Community Market, 1C CB ,Steet No 199 Near Lal Path Laboratory Tank No 5, New Town Kolkata 700156"
+  },
+  {
+    "id": "dum-dum-park-baidik-dum-dum-park",
+    "name": "BAIDIK (DUM DUM PARK)",
+    "city": "DUM DUM PARK",
+    "address": "65 Dum dum park Kolkata 700055"
+  },
+  {
+    "id": "hatiyara-durga-ram-stores-hatiyara",
+    "name": "DURGA RAM STORES (HATIYARA)",
+    "city": "HATIYARA",
+    "address": "Relocated within this month"
+  },
+  {
+    "id": "rajarhat-chowmatha-kakes-rajarhat-chowmatha",
+    "name": "KAKES (RAJARHAT CHOWMATHA)",
+    "city": "RAJARHAT CHOWMATHA",
+    "address": "3 & 9,ANNAPURNA MARKET RACKJOANI,RAJARHAT MAIN ROAD KOLKATA 700135"
+  },
+  {
+    "id": "arjunpur-papiya-confectionery-arjunpur",
+    "name": "PAPIYA CONFECTIONERY (ARJUNPUR)",
+    "city": "ARJUNPUR",
+    "address": "Gorakshabasi road, near Gorakhnath Mandir and Baguiati P.S., Raghunathpur, Arjunpur, Baguiati, West Bengal -700059"
+  },
+  {
+    "id": "sreebhumi-purnima-confectionery-sreebhumi",
+    "name": "PURNIMA CONFECTIONERY (SREEBHUMI)",
+    "city": "SREEBHUMI",
+    "address": "32 canal street, p.s. Lake Town, Kolkata-700048"
+  },
+  {
+    "id": "laketown-bose-enterprise-laketown",
+    "name": "BOSE ENTERPRISE (LAKETOWN)",
+    "city": "LAKETOWN",
+    "address": "P-867, Block - A, Laketown, kolkata - 700089"
+  },
+  {
+    "id": "basirhat-bhyabla-sagar-enterprises-basirhat-bhyabla",
+    "name": "SAGAR ENTERPRISES (BASIRHAT BHYABLA)",
+    "city": "BASIRHAT BHYABLA",
+    "address": "Sir. R. N. Mukherjee Road, Bhabla Railgate, P.O. Bhabla, P.S. Basirhat, Dist. North 24 Parganas, West Bengal Pin No. 743422"
+  },
+  {
+    "id": "barasat-colony-more-maa-annapurna-confectionery-barasat-colo",
+    "name": "MAA ANNAPURNA CONFECTIONERY (BARASAT COLONY MORE)",
+    "city": "BARASAT COLONY MORE",
+    "address": "2460/2,pioneer park, krishnanagar road, barasat, colony more,barbarian, North 24 parganas, West Bengal"
+  },
+  {
+    "id": "barasat-champadali-dey-confectionery-barasat-champadali",
+    "name": "DEY CONFECTIONERY (BARASAT CHAMPADALI)",
+    "city": "BARASAT CHAMPADALI",
+    "address": "14A/1,TAKI ROAD,CHAMPADALI MORE,NEAR BIJAYA CINEMA HALL BARASAT,KOLKATA 700124"
+  },
+  {
+    "id": "krishnanagar-2-sunrise-krishnanagar-2",
+    "name": "SUNRISE (KRISHNANAGAR 2)",
+    "city": "KRISHNANAGAR 2",
+    "address": "D.L ROY ROAD (OPPOSITE BELDANGA BAROWARI) KRISHNAGAR,NADIA.PINCOD:741101"
+  },
+  {
+    "id": "madhyamgram-badu-the-aadda-zone-madhyamgram-badu",
+    "name": "THE AADDA ZONE (MADHYAMGRAM BADU)",
+    "city": "MADHYAMGRAM BADU",
+    "address": "Itkhole ,Badu , Barasat,kol-700128,Near Axis Bank Badu branch"
+  },
+  {
+    "id": "madhyamgram-2-asha-confectionery-and-bevarage-madhyamgram-2",
+    "name": "ASHA CONFECTIONERY AND BEVARAGE (MADHYAMGRAM 2)",
+    "city": "MADHYAMGRAM 2",
+    "address": "Madhyamgram Debigarh 2 no"
+  },
+  {
+    "id": "aminpur-bazar-elite-bakers-aminpur-bazar",
+    "name": "ELITE BAKERS (AMINPUR BAZAR)",
+    "city": "AMINPUR BAZAR",
+    "address": "Aminpur Bazar, Rajarhat main road, beside bandhan Bank, Shasan, North 24 Parganas,743423"
+  },
+  {
+    "id": "taherpur-s-s-enterprise-taherpur",
+    "name": "S.S. ENTERPRISE (TAHERPUR)",
+    "city": "TAHERPUR",
+    "address": "Taherpur main road Near Taherpur station"
+  },
+  {
+    "id": "khardaha-srv-enterprise-khardaha",
+    "name": "SRV ENTERPRISE (KHARDAHA)",
+    "city": "KHARDAHA",
+    "address": "Khardaha beside sanjeevini nursing home kol-118"
+  },
+  {
+    "id": "krishnanagar-suman-dutta-confectionery-krishnanagar",
+    "name": "SUMAN DUTTA CONFECTIONERY (KRISHNANAGAR)",
+    "city": "KRISHNANAGAR",
+    "address": "BISWAMBHAR ROY ROAD,KRISHNANAGAR NADIA"
+  },
+  {
+    "id": "dhubulia-urban-confactionery-dhubulia",
+    "name": "URBAN CONFACTIONERY (DHUBULIA)",
+    "city": "DHUBULIA",
+    "address": "DHUBULIA STATION ROAD, NADIA, 741139"
+  },
+  {
+    "id": "ranaghat-utsav-confectionery-ranaghat",
+    "name": "UTSAV CONFECTIONERY (RANAGHAT)",
+    "city": "RANAGHAT",
+    "address": "77, G.N.P.C Road, Ranaghat, Nadia, P.0- Ranaghat, P.S- Ranaghat, Pincode- 741201"
+  },
+  {
+    "id": "matia-vinayak-traders-matia",
+    "name": "VINAYAK TRADERS (MATIA)",
+    "city": "MATIA",
+    "address": "Matia bazar , north 24 parganas, West Bengal,"
+  },
+  {
+    "id": "duttapulia-a-p-hospitality-duttapulia",
+    "name": "A P HOSPITALITY (DUTTAPULIA)",
+    "city": "DUTTAPULIA",
+    "address": "Land mark - Matia Bus stand, 743437"
+  },
+  {
+    "id": "moynagadi-cookies-corner-moynagadi",
+    "name": "COOKIES CORNER (MOYNAGADI)",
+    "city": "MOYNAGADI",
+    "address": "Barasat-1 ,nowapara moyna gadi , west bengal,N24 PGS ,700125"
+  },
+  {
+    "id": "habibpur-paul-enterprise-habibpur",
+    "name": "PAUL ENTERPRISE (HABIBPUR)",
+    "city": "HABIBPUR",
+    "address": "Habibpur In Front Of Habibpur Iskcon Temple, Nadia"
+  },
+  {
+    "id": "hazra-rm-enterprise-hazra",
+    "name": "RM ENTERPRISE (HAZRA)",
+    "city": "Hazra",
+    "address": "11-113,Hazra Rd,Hazra,Kalighat,Kolkata,West Bengal 700026"
+  },
+  {
+    "id": "panchannagram-aneek-enterprise-tiljala-panchannagram",
+    "name": "ANEEK ENTERPRISE (TILJALA PANCHANNAGRAM)",
+    "city": "Panchannagram",
+    "address": "303,Panchanna Gram, P.O+P.O. Tiljala Kolkata-700039"
+  },
+  {
+    "id": "new-alipore-dharon-new-alipore",
+    "name": "DHARON (NEW ALIPORE)",
+    "city": "New Alipore",
+    "address": "7 Tollygunge circular road. Yamunotri Apartment. Kolkata - 53"
+  },
+  {
+    "id": "moulali-taltala-maya-confectionery-moulali-taltala",
+    "name": "MAYA CONFECTIONERY (MOULALI TALTALA)",
+    "city": "Moulali Taltala",
+    "address": "71/A Lenin Sarani Kolkata -13"
+  },
+  {
+    "id": "ballygaunge-phari-awtar-enterprise-ballygaunge-phari",
+    "name": "AWTAR ENTERPRISE (BALLYGAUNGE PHARI)",
+    "city": "Ballygaunge Phari",
+    "address": "45 Hazra Road Kolkata -700019"
+  },
+  {
+    "id": "cit-moulali-bhagyashri-phillips-more-cit-moulali",
+    "name": "BHAGYASHRI (PHILLIPS MORE CIT MOULALI)",
+    "city": "Cit Moulali",
+    "address": "P23B Nanigopal Roy Choudhury Avenue Kolkata-700014"
+  },
+  {
+    "id": "kalamandir-atithi-kalamandir",
+    "name": "ATITHI (KALAMANDIR)",
+    "city": "Kalamandir",
+    "address": "7/2 AJC Bose Road Kolkata-700017. Opposite Trimurti Petrol Pump"
+  },
+  {
+    "id": "ballygaunge-station-2-ballygunje-cake-shop-ballygaunge-stati",
+    "name": "BALLYGUNJE CAKE SHOP (BALLYGAUNGE STATION 2)",
+    "city": "Ballygaunge Station 2",
+    "address": "Egdeliya Road Ballygunge Station Kolkata-700019"
+  },
+  {
+    "id": "vip-shimla-adimou-delicious-enterprise-vip-shimla",
+    "name": "ADIMOU DELICIOUS ENTERPRISE (VIP SHIMLA)",
+    "city": "Vip Shimla",
+    "address": "14 Vip Nagar Kol-700100"
+  },
+  {
+    "id": "sonarpur-2-durga-enterprise",
+    "name": "DURGA ENTERPRISE",
+    "city": "SONARPUR 2",
+    "address": "Holding No - 485, Shristi Apartment, Natun Pallli, Paschim Sambhu Battala. P.O + P.S - Sonarpur. Pin - 700150."
+  },
+  {
+    "id": "birnagar-s-s-enterprise",
+    "name": "S S ENTERPRISE",
+    "city": "BIRNAGAR",
+    "address": "Address - Birnagar Rail Bazar, Birnagar. Nadia"
+  },
+  {
+    "id": "habra-das-fast-food",
+    "name": "DAS FAST FOOD",
+    "city": "HABRA",
+    "address": "Holding No - 276/N, Vill - Paschim Kamarthuba,Near Banbania More. P.O + P.S - Habra. Pin- 743263. North 24 Pgs"
+  },
+  {
+    "id": "hedua-adiraj-ice-and-cakes",
+    "name": "ADIRAJ ICE AND CAKES",
+    "city": "HEDUA",
+    "address": "49, Abhedananda Road, Ward No-16, Kolkata Municipal Corporation. Pin - 700006."
+  },
+  {
+    "id": "sugandha-more-sri-krishna-cake-canvas",
+    "name": "SRI KRISHNA CAKE CANVAS",
+    "city": "SUGANDHA MORE",
+    "address": "Sugandhya Delhi Road More, opposite punjab national bank. Pin - 712102"
+  },
+  {
+    "id": "santipur-souvik-cake-centre",
+    "name": "SOUVIK CAKE CENTRE",
+    "city": "SANTIPUR",
+    "address": "Holding No -2,Asamanja Dey Street, Barabazar, Dist - Nadia, Pin - 741404."
+  },
+  {
+    "id": "maslandpur-chandana-confectionery",
+    "name": "CHANDANA CONFECTIONERY",
+    "city": "MASLANDPUR",
+    "address": "Maslandpur Tinamtala Road, Near Maslandpur Bus stop. Sadpur, Maslandpur, 24Pgs (N). Pin- 743289."
+  },
+  {
+    "id": "kalyani-cristal-rockks-cakes-and-bakery-shop",
+    "name": "CRISTAL ROCKKS CAKES AND BAKERY SHOP",
+    "city": "KALYANI",
+    "address": "Holding No - E-06/55/1063, Ward No- 02, Kalyani Ghosh Para (Das Para). P.O + P.S - Kalyani. Dist - Nadia, Pin- 741235."
+  },
+  {
+    "id": "rajarhat-aaron-confectionery",
+    "name": "AARON CONFECTIONERY",
+    "city": "RAJARHAT",
+    "address": "Raigachi, Rajarhat, Rajarhat Bishnupur-1, North 24 Pgs. Kolkata. Pin-700135."
+  },
+  {
+    "id": "purba-sinthee-bonny-s-bakery",
+    "name": "BONNY'S BAKERY",
+    "city": "PURBA SINTHEE",
+    "address": "183/B, M C Garden, Purba Sinthee Road. Dumdum, Kolkata. 700030"
+  },
+  {
+    "id": "sabang-rajdeep-bakery-cake",
+    "name": "RAJDEEP BAKERY & CAKE",
+    "city": "SABANG",
+    "address": "Vill - Sabang, Para -Ghosh Para, P.O + P.S - Sabang, Paschim Medinipur, Pin- 721144"
+  },
+  {
+    "id": "domjur-urmila-enterprise",
+    "name": "URMILA ENTERPRISE",
+    "city": "DOMJUR",
+    "address": "Uttar Jhapardaha, Vill- Rajapur, Para - Rajapur Mondir, P.O- Nonakundu, P.S - Domjur. Pin - 711405."
+  },
+  {
+    "id": "barasat-eco-hospital-sns-enterprise",
+    "name": "SNS ENTERPRISE",
+    "city": "BARASAT ECO HOSPITAL",
+    "address": "115/9, JESSORE ROAD (E) BARASAT ,District :- North 24 Parganas, Pincode :- 700124 in ward no.15"
+  },
+  {
+    "id": "pandua-nailah-enterprise",
+    "name": "NAILAH ENTERPRISE",
+    "city": "PANDUA",
+    "address": "Station Road, Telipara, P.O+ P.S - Pandua, Hooghly. Pin - 712149."
+  },
+  {
+    "id": "chatterjee-haat-manmohan-cake-shop",
+    "name": "MANMOHAN CAKE SHOP",
+    "city": "CHATTERJEE HAAT",
+    "address": "680/3/1,Sarat Chandra Chatterjee Road, Ground Floor, P.S - Shibpur, Bali - Howrah Municipal Corporation. Pin- 711102."
+  },
+  {
+    "id": "carry-road-ajit-store",
+    "name": "AJIT STORE",
+    "city": "CARRY ROAD",
+    "address": "31/5/1 Carry Road , Howrah"
+  },
+  {
+    "id": "ghatal-cakes-and-snacks-club",
+    "name": "CAKES AND SNACKS CLUB",
+    "city": "GHATAL",
+    "address": "Ajabnagar-II, Vill- Shibpur, Para - Hazrapara, P.O- Rathipur, P.S - Ghatal, Paschim Medinipur, Pin-721212."
+  },
+  {
+    "id": "jora-bridge-kidi-max-traders",
+    "name": "KIDI MAX TRADERS",
+    "city": "JORA BRIDGE",
+    "address": "Holding No-100, Nabagram, Panchpota, Kolkata. South 24 Pgs. Pin- 700152"
+  },
+  {
+    "id": "sonarpur-3-debarati-cakes-and-more",
+    "name": "DEBARATI CAKES AND MORE",
+    "city": "SONARPUR 3",
+    "address": "Khurigachhi, Kamrabad, Sonarpur, Sonarpur, South 24 Pgs. Pin -700150."
+  },
+  {
+    "id": "nabadwip-diya-confectionery",
+    "name": "DIYA CONFECTIONERY",
+    "city": "NABADWIP",
+    "address": "Flat No-440/8, Poramatala Road, P.O+ P.S - Nabadwip, Dist- Nadia, Pin - 741302."
+  },
+  {
+    "id": "chakraberia-rs-enterprises",
+    "name": "RS ENTERPRISES",
+    "city": "CHAKRABERIA",
+    "address": "3B Chakraberia lane ,3B Chakraberia lane, Kolkata 700020"
+  },
+  {
+    "id": "rishra-paul-confectionery",
+    "name": "PAUL CONFECTIONERY",
+    "city": "RISHRA",
+    "address": "17/8/1, Dinen Bhattacharjee Sarani, Rishra,Hooghly -712250"
+  },
+  {
+    "id": "serampore-2-renew-retail",
+    "name": "RENEW RETAIL",
+    "city": "SERAMPORE 2",
+    "address": "177/1, G.T Road, P.O + P.S - Serampore, Hooghly. Pin- 712201"
+  }
+]
