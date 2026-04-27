@@ -1,6 +1,6 @@
 import { useState, useEffect, useCallback } from "react";
 
-const API_BASE    = import.meta.env.VITE_API_URL      || "http://localhost:5000";
+const API_BASE = "https://kreamz-backend.onrender.com";
 const ADMIN_KEY   = import.meta.env.VITE_ADMIN_KEY    || "";
 const QR_DOMAIN   = import.meta.env.VITE_FRONTEND_URL || "https://yourdomain.com";
 
