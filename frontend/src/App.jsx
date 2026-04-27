@@ -1,4 +1,4 @@
-const isAdmin = window.location.pathname.includes("admin");
+import AdminDashboard from "./pages/AdminDashboard";
 import { useState, useEffect } from "react";
 import FeedbackFlow from "./pages/FeedbackFlow";
 import ThankYouScreen from "./pages/ThankYouScreen";
@@ -44,11 +44,21 @@ function App() {
   const handleComplete = () => setScreen("thankyou");
   const handleRestart  = () => setScreen("feedback");
 
-  if (isAdmin) {
+if (screen === "admin") {
   return <AdminDashboard allStores={allStores} />;
 }
-  }
 
+return (
+  <div>
+    {screen === "feedback" && (
+      <FeedbackFlow onComplete={() => setScreen("thankyou")} />
+    )}
+
+    {screen === "thankyou" && (
+      <ThankYouScreen onRestart={() => setScreen("feedback")} />
+    )}
+  </div>
+);
   return (
     <div className="min-h-screen font-sans">
       {screen === "feedback" && (
