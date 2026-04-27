@@ -3,7 +3,7 @@ import FeedbackFlow from "./pages/FeedbackFlow";
 import ThankYouScreen from "./pages/ThankYouScreen";
 import AdminDashboard from "./pages/AdminDashboard";
 
-const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:5000";
+const API_BASE = "https://kreamz-backend.onrender.com";
 
 function App() {
   const [screen, setScreen]     = useState("feedback");
