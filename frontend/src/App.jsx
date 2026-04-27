@@ -1,12 +1,14 @@
-import AdminDashboard from "./pages/AdminDashboard";
-import FeedbackFlow from "./pages/FeedbackFlow";
-import ThankYouScreen from "./pages/ThankYouScreen";
-const [screen, setScreen] = useState(() => {
   if (window.location.pathname === "/admin") {
     return "admin";
   }
   return "feedback";
 });
+import AdminDashboard from "./pages/AdminDashboard";
+import FeedbackFlow from "./pages/FeedbackFlow";
+import ThankYouScreen from "./pages/ThankYouScreen";
+const [screen, setScreen] = useState(
+  window.location.pathname === "/admin" ? "admin" : "feedback"
+);
 
 const API_BASE = "https://kreamz-backend.onrender.com";
 
