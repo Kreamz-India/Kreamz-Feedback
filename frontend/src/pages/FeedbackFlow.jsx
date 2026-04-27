@@ -24,7 +24,7 @@ const EMOTIONS = [
 const NEGATIVE_TAGS = ["Long wait","Rude staff","Cold food","Wrong order","Dirty tables","Overpriced","Small portions","Slow service","Poor packaging","Noisy environment"];
 const POSITIVE_TAGS = ["Amazing taste","Friendly staff","Great ambience","Fast service","Worth the price","Beautiful decor","Will visit again","Fresh ingredients","Perfect portions","Loved the vibe"];
 
-const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:5000";
+const API_BASE = "https://kreamz-backend.onrender.com";
 
 // ─────────────────────────────────────────────
 //  Star Rating Row
