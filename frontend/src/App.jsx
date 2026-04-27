@@ -1,3 +1,4 @@
+const isAdmin = window.location.pathname.includes("admin");
 import { useState, useEffect } from "react";
 import FeedbackFlow from "./pages/FeedbackFlow";
 import ThankYouScreen from "./pages/ThankYouScreen";
@@ -43,8 +44,9 @@ function App() {
   const handleComplete = () => setScreen("thankyou");
   const handleRestart  = () => setScreen("feedback");
 
-  if (screen === "admin") {
-    return <AdminDashboard allStores={allStores} />;
+  if (isAdmin) {
+  return <AdminDashboard allStores={allStores} />;
+}
   }
 
   return (
