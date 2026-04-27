@@ -1,7 +1,5 @@
 import AdminDashboard from "./pages/AdminDashboard";
 import { useState, useEffect } from "react";
-import FeedbackFlow from "./pages/FeedbackFlow";
-import ThankYouScreen from "./pages/ThankYouScreen";
 
 const API_BASE = "https://kreamz-backend.onrender.com";
 
