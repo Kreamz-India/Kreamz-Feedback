@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 
 const API_BASE = "https://kreamz-backend.onrender.com";
-const ADMIN_KEY   = import.meta.env.VITE_ADMIN_KEY    || "";
+const ADMIN_KEY   = import.meta.env.VITE_ADMIN_KEY    || "12345";
 const QR_DOMAIN   = import.meta.env.VITE_FRONTEND_URL || "https://yourdomain.com";
 
 const authHeaders = (extra = {}) => ({
