@@ -1,0 +1,55 @@
+.al-bg {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #1a0a14 0%, #3a0a2a 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+.al-card {
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(233,30,140,0.2);
+  border-radius: 24px;
+  padding: 3rem 2.5rem;
+  width: 100%;
+  max-width: 380px;
+  text-align: center;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+}
+.al-icon { font-size: 3rem; margin-bottom: 1rem; }
+.al-title {
+  font-family: var(--font-display);
+  font-size: 1.8rem;
+  font-weight: 800;
+  color: white;
+  margin-bottom: 0.25rem;
+}
+.al-subtitle { color: rgba(255,255,255,0.5); font-size: 0.85rem; margin-bottom: 2rem; }
+.al-form { display: flex; flex-direction: column; gap: 0.75rem; }
+.al-input {
+  padding: 0.9rem 1rem;
+  border-radius: 12px;
+  border: 1.5px solid rgba(233,30,140,0.3);
+  background: rgba(255,255,255,0.07);
+  color: white;
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.al-input::placeholder { color: rgba(255,255,255,0.35); }
+.al-input:focus { border-color: var(--pink); }
+.al-error { color: #ff7eb3; font-size: 0.82rem; }
+.al-btn {
+  padding: 0.9rem;
+  background: linear-gradient(135deg, #e91e8c, #c41674);
+  color: white;
+  border: none;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s;
+  box-shadow: 0 4px 16px rgba(233,30,140,0.4);
+}
+.al-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 24px rgba(233,30,140,0.5); }

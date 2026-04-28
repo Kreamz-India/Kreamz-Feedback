@@ -1,86 +1,23 @@
-  if (window.location.pathname === "/admin") {
-    return "admin";
-  }
-  return "feedback";
-});
-import AdminDashboard from "./pages/AdminDashboard";
+import { Routes, Route, Navigate } from "react-router-dom";
 import FeedbackFlow from "./pages/FeedbackFlow";
-import ThankYouScreen from "./pages/ThankYouScreen";
-import { useState } from "react";
-const [screen, setScreen] = useState(
-  window.location.pathname === "/admin" ? "admin" : "feedback"
-);
+import AdminDashboard from "./pages/AdminDashboard";
+import AdminLogin from "./pages/AdminLogin";
+import NotFound from "./pages/NotFound";
 
-const API_BASE = "https://kreamz-backend.onrender.com";
-
-function App() {
-  const [screen, setScreen]     = useState("feedback");
-  const [storeId, setStoreId]   = useState("");
-  const [storeData, setStoreData] = useState(null);
-  const [allStores, setAllStores] = useState([]);
-
-  // Fetch stores from backend (Excel-driven)
-  useEffect(() => {
-    fetch(`${API_BASE}/stores`)
-      .then(r => r.json())
-      .then(d => setAllStores(d.stores || []))
-      .catch(() => setAllStores([]));
-  }, []);
-
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const sid = params.get("store") || "demo";
-    setStoreId(sid);
-
-    if (params.get("admin") === "true" || window.location.pathname === "/admin") {
-      setScreen("admin");
-    }
-    // No splash/welcome — go straight to feedback
-  }, []);
-
-  // Resolve store data from backend list
-  useEffect(() => {
-    if (allStores.length > 0 && storeId) {
-      const found = allStores.find(s => s.id === storeId);
-      setStoreData(found || { id: storeId, name: storeId, city: "", address: "" });
-    }
-  }, [allStores, storeId]);
-
-  const storeName = storeData?.name || storeId || "Kreamz Store";
-
-  const handleComplete = () => setScreen("thankyou");
-  const handleRestart  = () => setScreen("feedback");
-
-if (screen === "admin") {
-  return <AdminDashboard allStores={allStores} />;
-}
-
-return (
-  <div>
-    {screen === "feedback" && (
-      <FeedbackFlow onComplete={() => setScreen("thankyou")} />
-    )}
-
-    {screen === "thankyou" && (
-      <ThankYouScreen onRestart={() => setScreen("feedback")} />
-    )}
-  </div>
-);
+export default function App() {
   return (
-    <div className="min-h-screen font-sans">
-      {screen === "feedback" && (
-        <FeedbackFlow
-          storeData={storeData}
-          storeName={storeName}
-          storeId={storeId}
-          onComplete={handleComplete}
-        />
-      )}
-      {screen === "thankyou" && (
-        <ThankYouScreen onRestart={handleRestart} storeName={storeName} />
-      )}
-    </div>
+    <Routes>
+      {/* Customer-facing feedback form */}
+      <Route path="/" element={<FeedbackFlow />} />
+      <Route path="/feedback" element={<FeedbackFlow />} />
+
+      {/* Admin section */}
+      <Route path="/admin/login" element={<AdminLogin />} />
+      <Route path="/admin" element={<AdminDashboard />} />
+      <Route path="/admin/dashboard" element={<Navigate to="/admin" replace />} />
+
+      {/* 404 */}
+      <Route path="*" element={<NotFound />} />
+    </Routes>
   );
 }
-
-export default App;
