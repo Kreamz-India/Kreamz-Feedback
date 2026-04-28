@@ -6,7 +6,7 @@ import NotFound from "./pages/NotFound";
 
 export default function App() {
   return (
-    <BrowserRouter>   {/* ✅ ADD THIS */}
+    {/*BrowserRouter*/}  
       <Routes>
 
         {/* Customer */}
@@ -22,7 +22,7 @@ export default function App() {
         <Route path="*" element={<NotFound />} />
 
       </Routes>
-    </BrowserRouter>   {/* ✅ ADD THIS */}
+    {/*BrowserRouter*/}   
   );
 }
 
